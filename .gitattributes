@@ -1,0 +1,2 @@
+*.ckpt filter=lfs diff=lfs merge=lfs -text
+east_icdar2015_resnet_v1_50_rbox/model.ckpt*data* filter=lfs diff=lfs merge=lfs -text
